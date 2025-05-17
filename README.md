@@ -12,11 +12,11 @@
   \/
 </p>
 <p align="center">
-  <a href="https://github.com/V1DAD/roleta-russa-/releases/latest/download/roleta-russa.exe">
+  <a href="https://github.com/V1DAD/roleta-russa-/releases/latest/download/roleta.russa.exe">
     <img src="https://img.shields.io/badge/Download-.EXE-blue?style=for-the-badge&logo=windows" alt="Download .EXE">
   </a>
   &nbsp;
-  <a href="https://github.com/V1DAD/roleta-russa-/releases/latest/download/roleta-russa.py">
+  <a href="https://github.com/V1DAD/roleta-russa-/releases/latest/download/roleta.russa.py">
     <img src="https://img.shields.io/badge/Download-.PY-green?style=for-the-badge&logo=python" alt="Download .PY">
   </a>
 </p>
