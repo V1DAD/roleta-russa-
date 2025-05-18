@@ -25,3 +25,6 @@
   ( O windows sempre vai bloquear a execução do .exe de primeira pela falta de certificados, e eu nem a pau vou comprar um )
 </p>
 
+<p align="center">
+   ( primeira versão no branch og )
+</p>
