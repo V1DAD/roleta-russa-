@@ -2,7 +2,7 @@
   <img src="imagens/icone.png" alt="Ícone do Projeto" width="150"/>
 </p>
 <p align="center">
-  Jogo de roleta russa feito em python, que eu lentamente irei adicionar mecânicas novas ao longo do tempo
+  Primeira versão do roleta.russa
 </p>
 
 <p align="center">
