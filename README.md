@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="imagens/icone.png" alt="Ícone do Projeto" width="150"/>
+  <img src="imagens/icone og.png" alt="Ícone do Projeto" width="150"/>
 </p>
 <p align="center">
   Primeira versão do roleta.russa
 </p>
 
 <p align="center">
-  Baixe as versões mais recentes abaixo
+  Baixe clicando abaixo
 </p>
 <p align="center">
   \/
